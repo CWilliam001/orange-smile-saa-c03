@@ -98,7 +98,7 @@ Hard Disk Drives (HDD)
     Cold HDD (sc1)
         For data that is infrequently accessed
         Scenarios where lowest cost is important
-        Max throughput 250MB max IOPS 250
+        Max throughput 250MB max IOPS 250                                                                                                                  
 
 
 
