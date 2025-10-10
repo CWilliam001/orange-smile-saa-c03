@@ -22,9 +22,9 @@ Section 21 (Databases in AWS):                                                  
 Section 22 (Data & Analytics):                                                      SKIP
 Section 23 (Machine Learning):                                                      SKIP
 Section 24 (AWS Monitoring & Audit: CloudWatch, CloudTrail & Config):               DONE
-Section 25 (IAM Advanced):                                                          SKIP
-Section 26 (AWS Security & Encryption: KMS, SSM Parameter Store, Shield, WAF):      NA
+Section 25 (IAM Advanced):                                                          NA
+Section 26 (AWS Security & Encryption: KMS, SSM Parameter Store, Shield, WAF):      DONE
 Section 27 (Networking VPC):                                                        NA
 Section 28 (Disaster Recovery & Migrations):                                        DONE
-Section 29 (More Solution Architectures):                                           NA
-Section 30 (Other Services):                                                        NA
+Section 29 (More Solution Architectures):                                           SKIP
+Section 30 (Other Services):                                                        SKIP
