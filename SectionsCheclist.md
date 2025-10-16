@@ -11,7 +11,7 @@ Section 10 (Route 53):                                                          
 Section 11 (Classic Soutions Architecture Discussions):                             SKIP
 Section 12 (S3 Introduction):                                                       DONE
 Section 13 (S3 Advanced):                                                           DONE
-Section 14 (S3 Security):                                                           NA
+Section 14 (S3 Security):                                                           DONE
 Section 15 (CloudFront & Global Accelerator):                                       DONE
 Section 16 (Storage Extras):                                                        DONE
 Section 17 (Decoupling applications: SQS, SNS, Kinesis, Active MQ):                 DONE
