@@ -16,15 +16,15 @@ Section 15 (CloudFront & Global Accelerator):                                   
 Section 16 (Storage Extras):                                                        DONE
 Section 17 (Decoupling applications: SQS, SNS, Kinesis, Active MQ):                 DONE
 Section 18 (Containers on AWS: ECS, Fargte, ECR, EKS):                              DONE
-Section 19 (Serverless Overviews from a SAA Perspective):                           NA
+Section 19 (Serverless Overviews from a SAA Perspective):                           DONE
 Section 20 (Serverless Solution Architecture Discussions):                          SKIP
 Section 21 (Databases in AWS):                                                      DONE
-Section 22 (Data & Analytics):                                                      SKIP
+Section 22 (Data & Analytics):                                                      HALF
 Section 23 (Machine Learning):                                                      SKIP
 Section 24 (AWS Monitoring & Audit: CloudWatch, CloudTrail & Config):               DONE
-Section 25 (IAM Advanced):                                                          SKIP
+Section 25 (IAM Advanced):                                                          DONE
 Section 26 (AWS Security & Encryption: KMS, SSM Parameter Store, Shield, WAF):      DONE
 Section 27 (Networking VPC):                                                        DONE
 Section 28 (Disaster Recovery & Migrations):                                        DONE
-Section 29 (More Solution Architectures):                                           SKIP
+Section 29 (More Solution Architectures):                                           HALF
 Section 30 (Other Services):                                                        SKIP
